@@ -1,5 +1,4 @@
-GM.Name 		= "Redone"
-GM.Author 		= "Shell Shocked"
-GM.Email 		= ""
-GM.Website 		= ""
-GM.TeamBased 	= false
+GM.Name 	= "Underdone 2"
+GM.Author 	= "Polkm & [PWD]Bekka"
+GM.Email 	= ""
+GM.Website 	= ""
