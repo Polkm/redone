@@ -1,7 +1,7 @@
 AddCSLuaFile("cl_init.lua")
 AddCSLuaFile("shared.lua")
+AddCSLuaFile("Main/sh_data.lua")
+AddCSLuaFile("Main/sh_resource.lua")
 include("shared.lua")
-GM.PlayerSpawnTime = {}
-
-function GM:Initialize()
-end
+include("Main/sh_data.lua")
+include("Main/sh_resource.lua")
